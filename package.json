@@ -6,5 +6,15 @@
 	},
 	"scripts": {
 		"start": "node main.js"
+	},
+	"description": "Simple service to just print 'Hello World' when queried on the HTTP port",
+	"author": {
+		"url": "https://meschbach.com",
+		"email": "meschbach@gmail.com",
+		"name": "Mark Eschbach"
+	},
+	"license": "MIT",
+	"repository": {
+		"url": "meschbach/docker-hello-world"
 	}
 }
